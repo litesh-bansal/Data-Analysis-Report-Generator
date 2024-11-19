@@ -33,7 +33,8 @@ pip install pandas matplotlib seaborn fpdf PyPDF2
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-analysis-report-generator.git
+  
+   git clone  https://github.com/litesh-bansal/Data-Analysis-Report-Generator.git
    cd data-analysis-report-generator
    ```
 2. Open the Jupyter Notebook `Acadia.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
