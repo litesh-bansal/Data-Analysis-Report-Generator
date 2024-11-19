@@ -1,4 +1,4 @@
-```markdown
+
 # Data Analysis Report Generator
 
 This repository contains a Jupyter Notebook that automates the creation of a professional PDF report from a given dataset. The report includes insights such as identifying missing values, categorizing data types, handling duplicate and constant columns, and generating visualizations for numerical and categorical columns.
@@ -81,4 +81,4 @@ For any queries, feedback, or collaboration opportunities:
 
 ---
 
-This README is comprehensive and user-friendly, providing clear instructions for usage, prerequisites, and contribution. It also highlights your contact information for professional visibility. Let me know if you need help refining or adding anything!
+
