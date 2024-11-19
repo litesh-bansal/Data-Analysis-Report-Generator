@@ -43,7 +43,7 @@ pip install pandas matplotlib seaborn fpdf PyPDF2
 ## Example Workflow
 1. Specify the input dataset and output file path:
    ```python
-   data_path = "your_dataset.csv"
+   data_path = "sample_data.csv"
    output_file = "generated_report.pdf"
    ```
 2. Run all the cells in the notebook.
