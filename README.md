@@ -61,11 +61,6 @@ The generated PDF report includes:
 - Insights on duplicate and constant columns before and after removal.
 - Visualizations of box plots and data distributions.
 
-## Repository Structure
-- `Acadia.ipynb`: The Jupyter Notebook for generating the data analysis report.
-- `README.md`: This documentation file.
-- Example datasets can be added for testing purposes.
-
 ## Contributing
 Contributions are welcome! If you find any issues or have ideas for additional features, feel free to open an issue or submit a pull request.
 
@@ -80,6 +75,6 @@ For any queries, feedback, or collaboration opportunities:
 - GitHub: [litesh-bansal](https://github.com/litesh-bansal)
 ```
 
----
+
 
 
